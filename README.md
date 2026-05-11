@@ -1,2 +1,2 @@
 # Cadence-Project
-Amogh M (1BM23EC024) project for SVV (23EC6PE2SV)
+Anshul Naik (1BM23EC029) project for SVV (23EC6PE2SV)
